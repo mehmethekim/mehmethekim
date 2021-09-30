@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehmethekim
-- 👀 I’m interested in Power Electronics, Electric Motors, Coding and Machine Learning
-- 🌱 I’m currently learning Machine Learning on Python, Object Oriented Programming.
+- 👀 I’m interested in Embedded Software Development, Operating Systems.
+- 🌱 I’m currently learning Object Oriented Programming in C++, Object Oriented Programming.
 - 📫 How to reach me mehmethekimolu@gmail.com
 
 <!---
