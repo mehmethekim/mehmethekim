@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehmethekim
-- 👀 I’m interested in Embedded Software Development, Operating Systems.
-- 🌱 I’m currently learning Object Oriented Programming in C++, Object Oriented Programming.
+- 👀 I’m interested in Deep Learning, Embedded Software Development.
+- 🌱 I’m currently learning Reinforcement Learning.
 - 📫 How to reach me mehmethekimolu@gmail.com
 
 <!---
