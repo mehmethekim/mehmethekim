@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehmethekim
-- 👀 I’m interested in Deep Learning, Embedded Software Development.
-- 🌱 I’m currently learning Reinforcement Learning.
+- 👀 I’m interested in Deep Learning, Embedded Software Development and IoT.
+- 🌱 I’m currently learning Reinforcement Learning, Rust and ML on Edge.
 - 📫 How to reach me mehmethekimolu@gmail.com
 
 <!---
